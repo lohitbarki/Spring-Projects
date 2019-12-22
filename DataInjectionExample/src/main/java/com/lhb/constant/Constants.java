@@ -1,5 +1,10 @@
 package com.lhb.constant;
 
+/**
+ * @author Lohit Barki
+ *
+ * lohit.barki15@gmail.com
+ */
 public class Constants {
 	
 	public static final String GREET_NICE_DAY = "Have a nice day!!";
